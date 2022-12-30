@@ -1,4 +1,4 @@
-# OptSCORE Multithreaded State Machine Replication with vertical scaling capabilities
+# OptSCORE -- Multithreaded State Machine Replication with Vertical Scaling Capabilities
 
 
 This repository contains the source code used for obtaining and demonstrating the results presented in the 2018 EDCC paper [Resource-efficient state-machine replication with multithreading and vertical scaling](https://doi.org/10.1109/EDCC.2018.00024).
