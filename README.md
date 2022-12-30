@@ -1,7 +1,7 @@
 # OptSCORE Multithreaded State Machine Replication with vertical scaling capabilities
 
 
-This repository contains the source code used for obtaining and demonstrating the results presented in the 2018 EDCC paper "Resource-efficient state-machine replication with multithreading and vertical scaling" (DOI: 10.1109/EDCC.2018.00024).
+This repository contains the source code used for obtaining and demonstrating the results presented in the 2018 EDCC paper [Resource-efficient state-machine replication with multithreading and vertical scaling](https://doi.org/10.1109/EDCC.2018.00024).
 
 The project is based on BFT-SMaRt, and all evaluations were performed on an older version (v1.1-beta). Therefore, this version is included in this code base. Basic instructions on how to set up and run BFT-SMaRt clusters can be found in [README-BFT-SMaRt](README-BFT-SMaRt.txt).
 
